@@ -1,53 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=38BDF8&height=150&section=header&text=Adarsh%20Gupta&fontSize=60&fontColor=ffffff&animation=twinkle" alt="Header" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=24&pause=1500&color=202020&background=00FFFFFF&center=true&vCenter=true&width=600&lines=Performance+Oriented+Software+Engineer;CS+Sophomore+%40+ABV-IIITM;Game+Development+with+Godot;Passionate+about+Embedded+Systems" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/render?type=pixel&color=f59e0b&height=100&section=header&text=Adarsh_G.exe&fontSize=40&fontColor=ffffff&animation=twinkle" alt="Header" />
 </div>
 
 ---
 
 <table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Inside My Head</h3>
-      <ul>
-        <li>Currently focused on <b>Low-Level Performance</b> optimizing computer vision crates in Rust.</li>
-        <li>Architecting scalable backends with <b>Spring Boot</b>.</li>
-        <li>Building complex inventory systems in <b>Godot</b>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Core Tech Stack</h3>
-      <div align="left">
-        <img src="https://cdn.simpleicons.org/rust/f46623" height="35" alt="rust" /> &nbsp;
-        <img src="https://cdn.simpleicons.org/openjdk/white" height="35" alt="java" /> &nbsp;
-        <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="35" alt="springboot" /> &nbsp;
-        <img src="https://cdn.simpleicons.org/python/3776AB" height="35" alt="python" /> &nbsp;
-        <br><br>
-        <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="35" alt="godot" /> &nbsp;
-        <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="35" alt="c++" /> &nbsp;
-        <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="35" alt="aws" /> &nbsp;
-        <img src="https://cdn.simpleicons.org/popos/CCADB1" height="35" alt="popos" /> &nbsp;
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+  <h3>🎮 Player Profile: Adarsh</h3>
+  <p><strong>Class:</strong> Computer Science Sophomore</p>
+  <p><strong>Base of Operations:</strong> ABV-IIITM Gwalior</p>
+  <p><strong>Main Quest:</strong> Building highly optimized systems and immersive 2D game worlds.</p>
+  <p><strong>Side Quest:</strong> Making <a href="https://github.com/LaneAsade/Smart-Windshield-Project">Windshields Smart</a> with embedded C++.</p>
+</td>
+<td width="40%">
+  <img src="https://api.iconify.design/logos:godot-icon.svg?height=128" align="right" />
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 Github Activity Stream
+### 🎒 Inventory (Tech Stack)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshGuptaa&show_icons=true&theme=onedark&hide_border=true" height="170" alt="GitHub Stats" />
-  &nbsp; &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshGuptaa&theme=onedark&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/System_Language-Rust-f46623?style=flat-square" /> &nbsp;
+  <img src="https://img.shields.io/badge/Logic-Java-ED8B00?style=flat-square" /> &nbsp;
+  <img src="https://img.shields.io/badge/Hardware-Embedded_C-darkblue?style=flat-square" /> &nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Engine-Godot-478CBF?style=flat-square" /> &nbsp;
+  <img src="https://img.shields.io/badge/Art-Pixel-pink?style=flat-square" /> &nbsp;
+  <img src="https://img.shields.io/badge/OS-Pop!_OS-CCADB1?style=flat-square" /> &nbsp;
+</div>
+
+---
+
+### 🏆 Achievements & High Scores
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdarshGuptaa&theme=juicyfresh&column=7&margin-w=10&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshGuptaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Adarsh's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshGuptaa&layout=compact&theme=tokyonight&hide_border=true" alt="Adarsh's Top Languages" />
 </div>
 
 ---
 <div align="center">
-  Let's connect: 
-  <a href="https://www.linkedin.com/in/adarsh-gupta-a4ba60322/">LinkedIn</a> | 
-  <a href="mailto:adarshguptatiger2006@gmail.com">Email</a>
+  [Press Start to Collaborate] -> <a href="mailto:adarshguptatiger2006@gmail.com">Send Message</a>
 </div>
