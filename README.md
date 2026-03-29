@@ -39,9 +39,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://<YOUR-NEW-VERCEL-DOMAIN>/api?username=AdarshGuptaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adarsh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshGuptaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adarsh's GitHub Stats" />
   <br/>
-  <img src="https://<YOUR-NEW-VERCEL-DOMAIN>/api/top-langs/?username=AdarshGuptaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adarsh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshGuptaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adarsh's Top Languages" />
 </div>
 
 ---
