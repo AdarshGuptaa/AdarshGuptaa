@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-  <i>"Optimizing code, one pull request at a time."</i>
+  <i>"I like doing stuff no one else is doing :)"</i>
 </div>
