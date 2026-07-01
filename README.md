@@ -13,7 +13,7 @@
 * 🎓 I'm currently a 2nd-year Computer Science Engineering student at **ABV-IIITM Gwalior**.
 * 🦀 Contributing to open-source, heavily focused on optimizing performance in **Rust** (recently merged PRs in `kornia-rs`!).
 * ⚔️ Grinding Data Structures & Algorithms in **Java**.
-* 🐧 Daily driving **fedora** and expanding my Linux/Bash skills.
+* 🐧 Daily driving **Pop-OS** and expanding my Linux/Bash skills.
 * 📫 Reach out to me: **adarshguptatiger2006@gmail.com**
 
 ---
